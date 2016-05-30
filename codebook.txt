@@ -1,4 +1,4 @@
-### here is a list of variables in analysis.R
+### here is a list of variables in analysis.R for understaind the analysis performed
 
 1.  actitity_ytest : data set from y_test.txt 
 2.  activity_ytrain: data set from y_train.txt
@@ -14,3 +14,10 @@
 12.  data_mean_sd: subset data from All_data, including only variables with mean() and std()
 13. activity_label: data set from activity_labels.txt
 14.  tidydataset: tidy data set with the average of each variable for each activity and each subject
+
+### Detailed explanation on Dataset used for this study
+The data downloaded for this study represent data collected from the accelerometers from the Samsung Galaxy S II smartphone. A full description is available at the site where the data was obtained:
+
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
+
