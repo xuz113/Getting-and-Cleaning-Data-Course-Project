@@ -19,11 +19,11 @@ unzip(zipfile="./C3Wk4pdata/Wk4qDataset.zip",exdir="./C3Wk4pdata")
 
 ### Read all files into R
 including the following:
-1. activity data set, both training (y_train.txt) and testing (y_test.txt)
-2. subject data set, both training (subject_train.txt) and testing (subject_test.txt) 
-3. features data set, both training (x_train.txt) and testing (x_test.txt)
-4. features name data set (features.txt)
-5. activity labels data set (activity_labels.txt)
+1.  activity data set, both training (y_train.txt) and testing (y_test.txt)
+2.  subject data set, both training (subject_train.txt) and testing (subject_test.txt) 
+3.  features data set, both training (x_train.txt) and testing (x_test.txt)
+4.  features name data set (features.txt)
+5.  activity labels data set (activity_labels.txt)
 ```
 actitity_ytest <- read.table("./C3Wk4pdata/UCI HAR Dataset/test/y_test.txt")
 activity_ytrain <- read.table("./C3Wk4pdata/UCI HAR Dataset/train/y_train.txt")
