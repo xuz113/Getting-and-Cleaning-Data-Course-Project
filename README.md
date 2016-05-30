@@ -24,6 +24,7 @@ including the following:
 3.  features data set, both training (x_train.txt) and testing (x_test.txt)
 4.  features name data set (features.txt)
 5.  activity labels data set (activity_labels.txt)
+
 ```
 actitity_ytest <- read.table("./C3Wk4pdata/UCI HAR Dataset/test/y_test.txt")
 activity_ytrain <- read.table("./C3Wk4pdata/UCI HAR Dataset/train/y_train.txt")
