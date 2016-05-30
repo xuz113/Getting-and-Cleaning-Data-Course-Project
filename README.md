@@ -19,6 +19,7 @@ unzip(zipfile="./C3Wk4pdata/Wk4qDataset.zip",exdir="./C3Wk4pdata")
 
 ### Read all files into R
 including the following:
+
 1.  activity data set, both training (y_train.txt) and testing (y_test.txt)
 2.  subject data set, both training (subject_train.txt) and testing (subject_test.txt) 
 3.  features data set, both training (x_train.txt) and testing (x_test.txt)
