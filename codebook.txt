@@ -1,1 +1,4 @@
-here is a list of variable in the R program
+### here is a list of variables in analysis.R
+
+1.  actitity_ytest : data set from y_test.txt 
+2.  d
